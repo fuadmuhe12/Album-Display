@@ -1,3 +1,5 @@
+ https://fuadmuhe12.github.io/Album-Display/
+
 # Photo Album Management System
 
 This JavaScript code manages a photo album system using data from the [JSONPlaceholder](https://jsonplaceholder.typicode.com/) API. It dynamically fetches a list of photos, displays them in a user interface, and provides functionalities to add, delete, and edit photo albums.
